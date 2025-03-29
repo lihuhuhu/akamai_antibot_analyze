@@ -4,7 +4,7 @@ Analyzing trajectories. If you can't analyze them this week, you'll have to wait
 ## akamai wind control preliminary analysis ##
 I've been working on this for a long time, so let's give it a star.   
 Background: I was recently assigned an akamai 3.0 project for my internship. I don't think I've seen a few articles on wind control (maybe my circle is too small)
-! [img.png](img.png)
+
 ## Wind control phenomenon
 1. timeout, probability is tls fingerprint problem, replace the popular fingerprint library on the market. 2. response 403, probability is tls fingerprint problem, replace the popular fingerprint database on the market.
 2. 403 response, probability that _abck is being wind-controlled.
