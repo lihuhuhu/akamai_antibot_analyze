@@ -7,7 +7,7 @@ Background: I was recently assigned an akamai 3.0 project for my internship. I d
 1. timeout, probability is tls fingerprint problem, replace the popular fingerprint library on the market. 2. response 403, probability is tls fingerprint problem, replace the popular fingerprint database on the market.
 2. 403 response, probability that _abck is being wind-controlled.
 3. non-desired content response, here can be attributed to a variety of reasons. There are a number of reasons for this. I will only share one guess at this point.
-   1. when you take the _abck when requesting the next page will also send some mouse track information request, if you do not do this point your _abck will also immediately wind control. I've had this one on F12 - ackck winded up.
+   1. when you take the _abck when requesting the next page will also send some mouse track information request, if you do not do this point your _abck will also immediately wind control. I've had this one on F12 ackck winded up.
    2. If your track is not real enough, you will also be windchecked.
 
 ## Summary
