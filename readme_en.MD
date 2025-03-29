@@ -1,5 +1,3 @@
-## Browser trajectory analysis
-Analyzing trajectories. If you can't analyze them this week, you'll have to wait until next week.
 
 ## akamai wind control preliminary analysis ##
 I've been working on this for a long time, so let's give it a star.   
@@ -15,6 +13,10 @@ Background: I was recently assigned an akamai 3.0 project for my internship. I d
 ## Summary
    The above may only be for some sites, only as a reference.    
    It's not convenient to share your thoughts directly, but you can test it to get the right amount.
+
+## Browser trajectory analysis
+Analyzing trajectories. If you can't analyze them this week, you'll have to wait until next week.
+
 
 ## Discussions
 [telegram group](https://t.me/+4MxaaiydQsVjYTVl)   
